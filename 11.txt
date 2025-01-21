@@ -1,0 +1,14 @@
+When optimizing your app you should focus on:|Both app store optimization as well as external optimization
+What is an example of an external app SEO method?|Creating a solid content marketing strategy
+What is an example of ASO?|Optimizing your apps titles and descriptions
+Both app stores will evaluate things like:|User metrics such as uninstall rate, app speed, and more
+What is an A/B test?|Splitting traffic across different variations of the app
+Both Google and Apple have built-in A/B testing functionality.|False
+Why should you optimize screenshots?|To improve downloads and retention
+Which of these is a good reason to forecast?|Getting approval for appropriate resources to finish a project
+SEO forecasting is difficult because:|The landscape can change frequently
+Creating a custom CTR curve is:|Helpful but not required
+KPI stands for:|Key Performance Indicator
+With KPIs you should have:|Focus only on the ones that matter most
+ROI stands for:|Return on Investment
+With SEO you:|Generally see a longer-term ROI than that of paid

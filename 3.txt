@@ -1,0 +1,11 @@
+Which strategies can help in optimizing content for SEO? Select all that apply.|Writing about content that is newsworthy or trending$Incorporating E-E-A-T factors in the content$Ensuring content freshness by regularly updating content
+Which of the following is a significant factor that Google considers in determining whether a site is a brand?|Consistency in NAP (Name, Address, Phone number) data
+Identify the key elements of the ultimate E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) guide. Select all that apply.|Creating high-quality content that demonstrates expertise$Building authoritative backlinks from reputable sources$Including quotes from experts in the field
+Which of the following strategies is essential for building a strong brand presence online?|Consistent and high-quality content creation
+What is the significance of web vitals for web performance?|Web vitals help in measuring critical aspects of user experience such as loading, interactivity, and visual stability.
+Which of the following methods can help in ensuring trustworthiness through external factors? Select all that apply.|Getting positive online reviews$Having a secure HTTPS connection$Building backlinks from reputable sites
+Which tool is commonly used for finding and testing schema markup and structured data?|Google's Structured Data Testing Tool
+Which of the following factors are considered part of Core Web Vitals? Select all that apply.|Cumulative Layout Shift (CLS)$First Input Delay (FID)$Largest Contentful Paint (LCP)
+What is one of the methods for ensuring trustworthiness through on-site factors?|Displaying clear contact information and privacy policy
+What is the primary purpose of the Lighthouse tool in SEO?|To measure site performance and identify areas for improvement.
+Which of the following are criteria for assessing Experience, Expertise, Authoritativeness, and Trustworthiness (E-E-A-T) in website ranking? Select all that apply.|Demonstrating clear expertise in the subject matter$Author's credentials and qualifications$Frequency of content updates

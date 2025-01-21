@@ -1,0 +1,10 @@
+Which of the following is an aspect of on-page SEO?|Optimizing site keywords
+Which of the following meta-data are important to on-page SEO? (Select all that apply.)|Title tags$Meta-description$Heading tags
+Why is it important to have the brand at the end of the title tag?|What the page is about should be first
+What IS NOT a best practice for optimizing content?|Repeat your keyword often
+What is the best way for looking at all the information needed for on-page SEO?|A crawler like Screaming Frog
+Suppose you want to make sure to cover the three key areas of SEO; which of the following would you put into place?|On-page Optimization, Technical Optimization, and Off-page Optimization
+Suppose you have searched for a topic of interest in a search engine, when the Meta-Data returns some words in the meta-description are in bold; what are these words in bold type?|Keywords
+Which of the following are best practices to optimize a Title Tag for SEO? (Select all that apply.)|Aim to make Title Tag no longer than 55 to 60 characters in length$Make sure Title Tag accurately and concisely describes your page$Only use important keywords in Title Tag
+Which of the following are ways to best use Meta Descriptions for on-page optimization strategy? (Select all that apply.)|Write a meta description using keywords as much as possible while accurately describing the content.$Aim to keep meta descriptions under 160 characters in length.
+Which of the following are best practices for content optimization? (Select all that apply.)|Add unique content that adds value to site visitors and users.$Organize content within subdirectories$Make sure content is relevant to the theme of your site.

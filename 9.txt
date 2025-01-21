@@ -1,0 +1,10 @@
+Why is it important to estimate the competitiveness of a potential keyword? (Select all that apply.)|Estimating the competitiveness will help determine how long it will take to see results$Estimating the competitiveness will help you to set appropriate expectations for clients
+True or False: Analytics tools such as Google Webmaster are usually not very useful in assessing customer intent.|False
+True or False: Listing brand is the best way to optimize your title tag.|False
+Keyword selection on a larger site should be determined by which of the following factors:|competition, search volume, intent, audience alignment
+True or False: An existing site is more likely to have pages that work well with the keywords you have identified.|False
+Which of the following make up the criteria used to select keywords?|Relevancy, intent, and competitiveness
+Suppose you want to identify online competition based on keyword usage, what tools might you use for this? (Select all that apply.)|Open Site Explorer$Majestic SEO$MOZ keyword difficulty tool
+Suppose your client gave you a list of sites they consider to be their direct competitors; what should your attitude be toward organic competitors that are not on their list?|Include organic competitors that the client may not consider to be their competition.
+When you are organizing your top competitors to develop a plan to compete, what is an effective way to make the results of your analysis easier to grasp? (Select all that apply.)|Put each competitor in columns with their related keyword category.$Color-code the results to emphasize the strength of competitors.
+You've been hired to assign keywords to a site's existing pages to optimize SEO and you're eager to dive in, but what questions should you ask first? (Select all that apply.)|How is the page performing from a user experience standpoint?$What pages may need a revamp based on user engagement?

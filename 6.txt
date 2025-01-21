@@ -1,0 +1,10 @@
+How did page rank used to be determined? (Select all that apply.)|By an exponential rank from 0-10$By the amount of links to your website$By the quality of links to your website
+What IS NOT a best practice for creating strong site authority through links?|Have a link exchange with another website
+A natural link profile would have a link such as: (Select all that apply.)|Anchor text surrounded by content that relates$Click here$www.example.com
+Why is social media an important tool of off-page SEO? (Select all that apply.)|Some social media pages are crawled and indexed$It helps to build a brand
+What IS NOT an opportunity of Pinterest?|Pinterest can create a strong back link profile to your website
+Which elements make up an effective Off-site SEO strategy? (Select all that apply.)|Increase brand recognition through social media.$Gain genuine, high-quality links to your site.
+Which of the following are best practices to earn links naturally and be judged well by Google? (Select all that apply.)|Quality of links back to your site$Gaining a high amount of links to your site from other related sites attracted by good content$The relevance of sites linking to your site.
+Which of the following are good ways to earn links to your site naturally? (Select all that apply.)|Provide great content for your user base$Cater to your user base$Create a great user experience on your site
+Which of the following are ways to optimize social media as part of your overall SEO strategy? (Select all that apply.)|Optimize your Pinterest boards.$Create great content that is attractive as a Tweet or Re-Tweet.
+In which of the following ways can link analysis benefit your SEO? (Select all that apply.)|Maximize backlinks$Avoid penalties$Improve site authority

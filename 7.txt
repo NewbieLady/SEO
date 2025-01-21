@@ -1,0 +1,10 @@
+Which of the following IS NOT an aspect of technical SEO?|Optimizing site keywords
+Which of the following are functions of the robot.txt file? (Select all that apply.)|It identifies specific pages that should not be crawled by search engine bots$It provides search engine bots your preferences for crawl speed
+It is important to include an XML Sitemap for all of the following reasons EXCEPT:|It outlines the structure of your site for your audience
+When updating to a new site, which of the following is the most preferred method of redirecting from an old page to new content?|A permanent redirect from the old page to a comparable new page
+Why are soft 404 errors more difficult to resolve than traditional 404 errors?|Soft 404 pages are pages that still return a status code of 200 (okay) and are picked up by tools such as Google Search Console
+Which of the following is Technical SEO concerned with? (Select all that apply.)|Make it easier for search engine robots to index your site.$Make it easier for your audience to find your site.
+___________ SEO focuses on how well search engine spiders can crawl your site and index your content. Which of the following correctly fills the blank?|Technical
+You have been hired to optimize a website, which of the following is essential to include in your SEO strategy? (Select all that apply.)|Off-page Strategy$Content and Keyword recommendations$Technical SEO
+HTTP Response Status Codes are an important part of Technical SEO; what does HTTP stand for?|Hypertext Transfer Protocol
+Which of the following are best practices for designing and handling 404 error pages on your site? (Select all that apply.)|On arriving at a 404 page, provide users with helpful links$Redirect to a more appropriate page

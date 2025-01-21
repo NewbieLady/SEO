@@ -1,0 +1,18 @@
+Why do search engines not like link exchanges?|Because they are a form of compensated link and used to manipulate page rank
+Which type of link is generally disliked by search engines?|Paid links without the 'nofollow' attribute
+Your website recently participated in a large scale link exchange program. How might this affect your website's SEO?|It will improve because of the increased number of backlinks
+Which of the following is a critical step in structuring a content marketing campaign?|Integrating the campaign with a broader marketing strategy
+Which of the following are important aspects of structuring a content marketing campaign? (Select all that apply.)|Identifying target audience$Monitoring and adjusting the campaign as needed$Aligning with overall business goals
+Why is it important to align a content marketing campaign with the overall business strategy?|To ensure the campaign supports the company's broader goals
+What is the primary goal of a content marketing campaign?|Boosting brand awareness
+A business has been using clickbait headlines in their content marketing campaign to improve their SEO rankings. What is your evaluation of this strategy?|It's a bad strategy because it can lead to a high bounce rate
+Which of the following tactics can be used in a content marketing campaign to improve SEO rankings? (Select all that apply.)|Attracting backlinks from reputable websites$Using keywords naturally in the content
+How should keywords be incorporated into a content marketing campaign to optimize SEO?|They should be used in the content's title and throughout the text in a natural way
+Which of the following is NOT a type of content marketing campaign? (Select all that apply.)|Physical billboard campaign
+Why is a 'Thought leadership campaign' considered a type of content marketing campaign?|It involves creating and sharing content that establishes the brand as a leader in its industry.
+What is the main advantage of a 'Brand awareness campaign' over a 'Product launch campaign'?|Brand awareness campaigns focus on building long-term recognition and trust
+What are characteristics of successful data-driven studies? (Select all that apply.)|It contains information that addresses knowledge gaps related to a hot topic in your market.$Contains data that you've assembled based on research$It's carefully promoted to the media that writes about related topics.
+Which of the following factors are considered in link valuation? (Select all that apply.)|The position of the link on the page$The relevance of the linking site$The authority of the linking site
+What are the characteristics of Skyscraper content? (Select all that apply.)|It contains authoritative information on a topic.$It's designed to steal rankings from competitors.
+What is the value of working with experts for your content marketing campaign? (Select all that apply.)|It improves your chances of getting a link because the opinion of experts is something that others respect.$It can result in content that Google chooses to rank because of its quality.
+What are the characteristics of guest posting? (Select all that apply.)|Guest posting should focus on a small number of sites that have a similar target audience as your business.$High volume guest posting is dangerous.

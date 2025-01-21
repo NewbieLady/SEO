@@ -1,0 +1,10 @@
+Why is developing a buyer persona important for keyword selection in SEO?|It helps in selecting keywords that are relevant to the audience's needs and interests
+Identify the characteristics and needs of potential buyers that should be included in a marketing persona. Select all that apply.|Demographic details (age, gender, location)$Shopping behavior$Pain points and challenges
+What is an alternative use of Google Trends for SEO?|To see related search terms and topics
+What is a key benefit of using Google Trends for your SEO strategy?|It helps you identify seasonal trends in keyword searches.
+Which of the following features can you utilize with Google Trends? Select all that apply.|Compare the popularity of search terms over time$Explore search interest by region$Analyze search trends globally
+What is the primary purpose of developing a user persona in marketing?|To better understand the audience and their intent
+What are some methods for finding keywords the user is searching for? Select all that apply|Looking at people that also ask questions$Using Google Trends
+What are some methods of creating a user persona? Select all that appl|Analyzing forums and online groups$Sending out surveys$Interviewing target users or existing users
+What role is usually tasked with creating user personas?|This can fall under multiple marketing roles.
+Which of the following are essential components in creating a user persona? Select all that apply.|Identifying the audience's interests and preferences.$Understanding the audience's search intent.
