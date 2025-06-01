@@ -1,0 +1,18 @@
+Select the elements that contribute to improving a website's crawlability.|Robots.txt files instruct search engines on which pages to crawl.$Sitemaps help search engines discover new pages on your site.$Link structure within a site aids efficient crawling.$HTML tags ensure better crawlability.
+Select the technical SEO practices that improve website design for efficient search engine crawling.|Using HTTPS to enhance security and SEO trustworthiness.$Ensuring URLs are short and descriptive.$Implementing redirects to manage outdated pages.
+What is a main advantage of using subdomains for organizing website content?|Subdomains help segment content and maintain separate server resources.
+What is the impact of crawlability on SEO?|It determines how easily search engines can access, understand, and index content.
+Which of the following is a key element of technical SEO?|JavaScript optimization helps improve load time and SEO performance.
+How does a hierarchical organization of website pages impact user experience and SEO?|Hierarchically arranged pages help users find information faster.
+What is the significance of crawl budget in SEO?|Crawl budget limits the number of pages a search engine will crawl on a site, impacting visibility.
+How does optimizing the site structure improve search engine visibility?|It ensures all pages are indexed.$It helps search engines understand content hierarchy.
+Identify the technical aspects of URLs that impact SEO performance.|URL length$Keyword usage in URL
+Which statements about HTTPS are accurate in the context of SEO and user experience?|Implementing HTTPS ensures secure connections for users.$HTTPS impacts SEO by improving user trust.
+Identify the benefits and best practices of using subdomains and subdirectories for organizing website content.|Subdomains can dilute domain authority if used excessively.$Subdirectories allow for easier content management.
+What is the impact of using HTTPS on a website's SEO and user trust?|It improves both SEO ranking and user trust.
+What does the term 'crawl budget' refer to in SEO?|Crawl budget refers to the number of pages a search engine will crawl over a given timeframe.
+Which factor influences the allocation of crawl budget for a website?|Crawl budget is allocated based on website size and update frequency.
+What is a main role of robots.txt in improving website SEO?|It prevents search engines from crawling specific pages or sections.
+Which elements should be included in a sitemap to improve SEO?|Canonical URLs to avoid content duplication$All pages of the website
+Which elements are important for ensuring a website's crawlability?|robots.txt file$Sitemap
+What role does JavaScript optimization play in technical SEO?|It ensures scripts are executed quickly and indexable by search engines.
