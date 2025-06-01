@@ -1,0 +1,10 @@
+What is the impact of Google's algorithm changes on AI-generated content?|AI-generated content must adhere to Google's quality guidelines.
+Which of the following is a best practice for using heading tags in SEO?|Use headings to create a clear and logical structure for the content.
+Which of the following best describes the purpose of heading tags in SEO?|To help search engines understand the structure and relevance of content
+Which of the following is a best practice for optimizing title tags?|Keep the title tag under 60 characters.
+Which of the following is a potential risk of using AI for content creation in SEO? (Select all that apply.)|Your site may get penalized for SEO content.$AI-generated content is always better than human-created content.$AI-generated content may lack originality and uniqueness.
+How can AI-generated content impact your SEO strategy?|It can improve content generation speed and efficiency.
+What is a primary challenge of incorporating user-generated content (UGC) into your SEO strategy?|Ensuring the content is high-quality and relevant.
+What are the benefits of incorporating user-generated content (UGC) into your SEO strategy?|Boosts credibility and trustworthiness$Increases engagement and interaction with the audience$Provides fresh and diverse content
+What is one key element to consider when creating an optimized title tag for SEO?|Include the primary keyword near the beginning of the title tag.
+What are some essential elements of on-page SEO?|Meta descriptions$Heading tags$Alt text for images$Title tags
